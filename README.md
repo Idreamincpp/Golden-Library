@@ -2,11 +2,12 @@
 Official GitHub page for the golden library application written in c++
 
 Hi, this is my first GUI project written in c++.
-It's pretty bad and basic, but it's my first lol
+It's pretty basic tbh
+
+It stores book information in a .txt.file, and you can find added books using the FindBook button.
 
 It's written in C++ and the GUI is from wxWidgets.
 
-I'll link my app down below:
-https://easyupload.io/5nyv7l
+Please read the README.txt file that comes with the app.
 
 Enjoy!
