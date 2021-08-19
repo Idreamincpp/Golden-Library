@@ -1,4 +1,4 @@
-# Golden-Library-1.0.2
+# Golden-Library
 the Golden library application allows you to save an store books, and find them.
 
 This is my first GUI project written in c++.
